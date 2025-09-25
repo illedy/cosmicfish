@@ -1,0 +1,256 @@
+{
+    "a":[
+        {
+            "n":"Cultivated Specimen Survey",
+            "b":"Bottom Layer",
+            "g":[
+                "Bait with Ambitious Lure, hooking only !! bites.",
+                "Identical Cast <doomed voyager>.",
+                "Upon receiving Intuition, Surface Slap.",
+                "Bait with Ambitious Lure, but hook only !!! bites.",
+                "Repeat to get the second one."
+            ],
+            "s":["Just get gold."]
+        },
+        {
+            "n":"Stardust Bait Test",
+            "b":"Isosceles Pearl",
+            "g":[
+                "Activate Collect.",
+                "Bait with Ambitious Lure, hooking only !! bites.",
+                "Upon catching <isosceles pearl>, Prize Catch and Identical Cast.",
+                "Upon catching <aurora shell>, Prize Catch and Surface Slap."
+            ],
+            "s":["Just get gold."]
+        },
+        {
+            "n":"Elemental-esque Aquaculture Specimens",
+            "b":"Opalite Impesctor",
+            "g":[
+                "Triple Hook first cast.",
+                "Chum the rest of the casts when possible.",
+                "The intended strategy is to Triple Hook <opalite impesctor> timing the bite for a x7 but it is not necessary."
+            ],
+            "s":["Just get gold."]
+        },
+        {
+            "n":"Prismatic Pull Distribution Survey",
+            "b":"Sunken kite",
+            "g":[
+                "Keep Patience II active.",
+                "Bait with Ambitious Lure and hook everything.",
+                "Upon catching <sunken kite>, Identical Cast and Stellar Hookset."
+            ],
+            "s":["Just get gold."]
+        },
+        {
+            "n":"Aquatic Glass Resource Distribution Survey",
+            "b":"Cast Flowers",
+            "g":[
+                "Activate Collect.",
+                "Bait with Ambitious Lure, hooking only !! and !!! bites.",
+                "Upon catching any !! bite, Surface slap and start resting !! bites too.",
+                "Upon catching <cast flowers>; Identical Cast, Prize Catch and Stellar Hookset."
+            ],
+            "s":["Same as gold but report mission when score is high enough for silver."]
+        },
+        {
+            "n":"Precision Lens Development Support",
+            "b":"Soda-lime Streamer",
+            "g":[
+                "Prize Catch.",
+                "Bait with Ambitious Lure, hooking only !! bites.",
+                "Upon catching <Untitled Work No. 98>, Surface Slap and Prize Catch.",
+                "Check Sequential Missions."
+            ],
+            "s":["Same as gold but report mission when score is high enough for silver."]
+        },
+        {
+            "n":"EX: Red Cosmomaggot Field Test",
+            "b":"Cobalt Horn",
+            "g":[
+                "Prize Catch.",
+                "Bait with Ambitious Lure, hooking only !! and !!! bites.",
+                "Upon catching any !! bite, Surface Slap and Prize Catch.",
+                "Bait with Ambitious Lure, resting if the message 'A dark horn darts in the water!' does not appear, and hooking !!! only."
+            ],
+            "s":["Just get gold."]
+        },
+        {
+            "n":"EX: Large River Resources",
+            "b":"Prismatic Cluster",
+            "g":[
+                "Keep Patience II active.",
+                "Bait with Ambitious Lure and hook everything.",
+                "Identical Cast <prismatic cluster>."
+            ],
+            "s":["Just get gold."]
+        },
+        {
+            "n":"EX: Large Aquatic Resources",
+            "b":"Sinking Crystascute",
+            "g":[
+                "Prize Catch.",
+                "Bait with Ambitious Lure, hooking only !! and !!! bites.",
+                "Upon catching any !! bite; Surface Slap, Prize Catch.",
+                "Bait with Ambitious Lure, resting if the message 'A mass of crystal wriggles in the water!' does not appear, and hooking !!! only.",
+                "Check Sequential Missions."
+            ],
+            "s":["If the first catch is not big enough, Surface Slap, Prize Catch and hook another !! or !!!."]
+        }
+    ],
+    "w":[
+        {
+            "n":"EX: Capsule Pools Distribution Survey",
+            "b":"Capsule Amber",
+            "g":[
+                "Wait for weather to be Rain.",
+                "Activate Collect.",
+                "Keep Patience II active.",
+                "Bait with Ambitious Lure, hooking only !! bites.",
+                "Upon catching <capsule amber>, Identical Cast and Stellar Hookset."
+            ],
+            "s":["Just get gold."]
+        },
+        {
+            "n":"EX+: Stardust Bait Test",
+            "b":"Soda-blue Impesctor",
+            "g":[
+                "Wait for weather to be Clouds.",
+                "Keep Patience II active. Use Cordials if needed.",
+                "Bait with Ambitious Lure and hook everything.",
+                "Upon catching <soda-blue impesctor>, Identical Cast and Big-game Fishing if available."
+            ],
+            "s":[
+                "This mission is too inconsistent to be worth farming.",
+                "If you still want to do it, use the same strategy for gold but report when the score is high enough for silver."
+            ]
+        }
+    ],
+    "t":[
+        {
+            "n":"Lower Soda-lime Float Distribution Survey",
+            "b":"Grim Impesctor",
+            "g":[
+                "Wait for ET to be between 08:00 and 10:00",
+                "Activate Collect.",
+                "Prize Catch.",
+                "Bait with Ambitious Lure, hooking only !! and !!! bites.",
+                "Upon catching any !! bite, Surface Slap and Prize Catch.",
+                "Bait with Ambitious Lure, but hook only !!! bites.",
+                "Upon catching <grim impesctor>, Identical Cast and Prize Catch.",
+                "Check Sequential Missions."
+            ],
+            "s":["Just get gold."]
+        },
+        {
+            "n":"EX+: Large Saltpeter Shore Resources",
+            "b":"Saltpeter Rose",
+            "g":[
+                "Wait for ET to be between 04:00 and 08:00",
+                "Bait with Ambitious Lure, hooking only !! bites.",
+                "Upon catching <saltpeter rose>; Identical Cast, Prize Catch, Cordial and Triple Hook.",
+                "Keep hooking everything if the score is not enough."
+            ],
+            "s":[
+                "Just get gold.",
+                "If you really want to save a Cordial, Double Hook instead and keep hooking until getting silver score."
+            ]
+        },
+        {
+            "n":"???",
+            "b":"???",
+            "g":[
+                "???"
+            ],
+            "s":["???"]
+        }
+    ],
+    "s":[
+        {
+            "n":"Hyper-aetheroconductive Materials",
+            "b":"Untitled Work No. 765",
+            "g":[
+                "Complete Class A Mission Precision Lens Development Support with gold rating.",
+                "Chum when GP is over 850.",
+                "Bait with Ambitious Lure, hooking only !! bites.",
+                "Upon catching <Untitled Work No. 765>, Identical Cast and Double Hook."
+            ],
+            "s":["Just get gold."]
+        },
+        {
+            "n":"EX: Rare Aquatic Resources",
+            "b":"Full-blown Bubble",
+            "g":[
+                "Complete Class A Mission EX: Large Aquatic Resources with gold rating.",
+                "Part 1: Getting !!!",
+                "Bait with Ambitious Lure, hooking only !! bites.",
+                "Upon catching <skippingway>, Surface Slap.",
+                "Upon catching <shallnot shell>, Identical Cast, then Surface Slap the second one.",
+                "Bait with Ambitious Lure, hooking only !!! bites.",
+                "Part 2: Getting both !",
+                "Bait with Modest Lure, hooking only ! bites.",
+                "Surface Slap the first one and cath the other one.",
+                "Part 3: Getting <skippingway> if needed.",
+                "If it was not caught before, bait with Ambitious Lure hooking only !! bites.",
+                "Surface Slap <shallnot shell> if it bites again."
+            ],
+            "s":["Just get gold."]
+        },
+        {
+            "n":"EX: Elemental-esque River Specimens",
+            "b":"Bubbling Impesctor",
+            "g":[
+                "Complete Class A Mission EX: Large Aquatic Resources with gold rating.",
+                "Complete Sequential Mission EX: Rare Aquatic Resources with gold rating.",
+                "Bait with Modest Lure and hook everything.",
+                "Upon catching <bubbling impesctor>; Identical Cast, Prize Catch and Stellar Hookset. Wait the cooldown if necessary."
+            ],
+            "s":["Just get gold."]
+        },
+        {
+            "n":"EX: Bubble Bursters Distribution Survey",
+            "b":"???",
+            "g":[
+                "Complete Time Restricted Mission Lower Soda-lime Float Distribution Survey (8-10 ET) with gold rating.",
+                "Bait with Ambitious Lure, hooking only !! and !!! bites.",
+                "Upon catching any !! bite, Surface Slap and Prize Catch.",
+                "Bait with Ambitious Lure, resting if the message 'An ethereal image appears in the water!' does not appear, and hooking !!! only."
+            ],
+            "s":["Just get gold."]
+        },
+        {
+            "n":"???",
+            "b":"???",
+            "g":[
+                "???"
+            ],
+            "s":["???"]
+        },
+        {
+            "n":"???",
+            "b":"???",
+            "g":[
+                "???"
+            ],
+            "s":["???"]
+        },
+        {
+            "n":"???",
+            "b":"???",
+            "g":[
+                "???"
+            ],
+            "s":["???"]
+        }
+    ],
+        "c":[
+        {
+            "n":"All?",
+            "g":[
+                "Bait with Ambitious Lure.",
+                "Double Hook !! bites."
+            ]
+        }
+    ]
+}
