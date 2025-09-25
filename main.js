@@ -1,6 +1,4 @@
-let load=async function(){
-    let r=await fetch('data.json',{method:"POST"});
-    let data=await r.json();
+window.onload=function(){
     for(let [t,v] of Object.entries(data)){
         let p=document.getElementById(t);
         for(let m of v){
@@ -41,8 +39,4 @@ let newMission=function(m,p){
         s.appendChild(l);
         l.innerText=n;
     }
-};
-
-window.onload=function(){
-    load();
 };

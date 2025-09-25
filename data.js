@@ -1,4 +1,4 @@
-{
+const data={
     "a":[
         {
             "n":"Cultivated Specimen Survey",
@@ -253,4 +253,4 @@
             ]
         }
     ]
-}
+};
