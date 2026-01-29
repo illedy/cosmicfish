@@ -220,10 +220,14 @@ const data={
             "s":["Just get gold."]
         },
         {
-            "n":"???",
-            "b":"???",
+            "n":"EX+: Fusingway Flow Distribution Survey",
+            "b":"Vent Impesctor",
             "g":[
-                "???"
+                "Complete Time Restricted Mission Lower Soda-lime Float Distribution Survey (8-10 ET) with gold rating.",
+                "Complete Sequential Mission EX: Bubble Bursters Distribution Survey with gold rating.",
+                "Bait with Modest Lure, hooking ! bites and Triple Hook !!! bites",
+                "If it was a ! bite, Surface Slap and start resting ! bites",
+                "Upon catching <vent impesctor>, "
             ],
             "s":["???"]
         },
