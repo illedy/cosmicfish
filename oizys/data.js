@@ -4,60 +4,77 @@ const data={
             "n":"Collapsed Tunnel Specimen Survey",
             "b":"Collapsed sucker",
             "g":[
-                "bait big, Slap !!/identicast, multihook, triple hook !!!" 
+                "Bait with Ambitious Lure, hooking only the first !!! bite.",
+                "If it is <pseudomander>, Surface Slap, Multihook and Triple Hook !!! only.",
+                "If it is <collapsed sucker>, Identical Cast, Multihook and Double Hook."
             ]
         },
         {
             "n":"Red Cosmomaggot Testing",
             "b":"Magnetite Skink",
             "g":[
-                "patience, mooch !, x2 if !!, !!! is powerful" 
+                "Keep Patience II active.",
+                "Bait with Modest Lure and hook everything, Mooch when possible."
             ]
         },
         {
             "n":"Edible Marine Life Survey",
             "b":"Ancient Oizys Fossil",
             "g":[
-                "no bait, multihook 2, identicast !!! into miltihook + triple hook. Time late !!?" 
+                "Without using lure actions hook everything.",
+                "Save at least 1 use of Multihook.",
+                "Upon catching <pseudocrab> o <ancient Oizys fossil>, Identical Cast, Multihook and Triple Hook.",
+                "Chum and Thaliak's Favor when available to catch the rest."
             ]
         },
         {
             "n":"Moros Well Environmental Survey",
             "b":"Moros Horned Viper",
             "g":[
-                "patience, bait big, hook all, stellar + identicast !!!" 
+                "Keep Patience II active.",
+                "Bait with Ambitious Lure and hook everything.",
+                "Stellar Hookset and Identical Cast !!! bites." 
             ]
         },
         {
             "n":"Valuable Marine Specimens",
             "b":"Steel Longnose",
             "g":[
-                "patience, biat big, stellar !!!, normal hook the rest" 
+                "Keep Patience II active.",
+                "Bait with Ambitious Lure and hook everything.",
+                "Stellar Hookset and Identical Cast !!! bites." 
             ]
         },
         {
             "n":"Marine Distribution Survey",
-            "b":"Oddweight Ironsand Lizard",
+            "b":"Craggy Sunfish",
             "g":[
-                "bait big, identicast Pseudolumpsucker for intuition, bait big, no size needed" 
+                "Bait with Ambitious Lure, hooking only !! bites.",
+                "Upon catching <pseudolumpsucker>, Identical Cast.",
+                "Upon receiving intuition, Surface Slap and hook only !!! bites."
             ]
         },
         {
             "n":"EX: Large Mutant Distribution Survey",
             "b":"Elongated Cameroceras",
             "g":[
-                "lure message !!!, slap the other !!!" 
+                "Prize Catch.",
+                "Bait with Ambitious Lure, resting if the message 'You spot a sharp silhouette in the water.' does not appear, and hooking !!! bites only.",
+                "Upon catching <iron thornytooth>, Surface Slap and Prize Catch.",
+                "The success of this mission is heavily influenced by randomness and it is recommended to avoid it when farming anything."
             ]
         },
         {
             "n":"EX: Dune Resource Emergency I",
             "b":"Oddweight Ironsand Lizard",
             "g":[
-                "patience, bait small, mooch, !!! is powerful. Identicast mooch and spare?" 
+                "Keep Patience II active.",
+                "Bait with Modest Lure and hook everything, Mooch when possible.",
+                "When out of Patience buff and GP, keep casting normally."
             ]
         },
         {
-            "n":"Placeholder A Mission Name",
+            "n":"Unavailable Mission",
             "b":"Placeholder Big Fish Name",
             "g":[
                 "Placeholder instruction 1.",
@@ -75,7 +92,7 @@ const data={
             ]
         },
         {
-            "n":"EX+: Cosmokrill Testing",
+            "n":"EX+: Cosmokrill Testing (Clouds)",
             "b":"Pseudosaurus",
             "g":[
                 "prize catch, bait big, slap !!, identicast !!! need more perception (food?)" 
@@ -84,7 +101,15 @@ const data={
     ],
     "t":[
         {
-            "n":"Placeholder Time Restricted Mission Name",
+            "n":"EX+: Dune Resource Emergency II (4-8 ET)",
+            "b":"Moros Sandworm",
+            "g":[
+                "Bait with Ambitious Lure and hook everything.",
+                "Upon catching <moros sandworm>, Identical Cast and Triple Hook."
+            ]
+        },
+        {
+            "n":"Unavailable Mission",
             "b":"Placeholder Big Fish Name",
             "g":[
                 "Placeholder instruction 1.",
@@ -106,20 +131,17 @@ const data={
     ],
         "c":[
         {
-            "n":"Placeholder Critical Mission Name",
-            "b":"Placeholder Big Fish Name",
+            "n":"All",
             "g":[
-                "Placeholder instruction 1.",
-                "Placeholder instruction 2.",
-                "Placeholder instruction 3.",
+                "Bait using the appropriate lure action and Double Hook twice."
             ]
         }
     ]
 };
 
 const ph={
-            "n":"EX: Gravitational Sphere Impact (Clear Skies)",
-            "b":"Marine Magnet",
+            "n":"EX+: Dune Resource Emergency II (4-8 ET)",
+            "b":"Moros Sandworm",
             "g":[
                 "bait big, slap !!, prize catch message !!! High perception" 
             ]
