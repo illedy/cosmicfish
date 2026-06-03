@@ -138,11 +138,3 @@ const data={
         }
     ]
 };
-
-const ph={
-            "n":"EX+: Dune Resource Emergency II (4-8 ET)",
-            "b":"Moros Sandworm",
-            "g":[
-                "bait big, slap !!, prize catch message !!! High perception" 
-            ]
-        }
