@@ -41,7 +41,7 @@ const data={
             "g":[
                 "Keep Patience II actie.",
                 "Bait with Modest Lure, hooking only ! bites.",
-                "Upon catching <stacks foliafin>, Mooch and Stellar Hookset !!! bites.",
+                "Upon catching <stacks foliafin>, Mooch and Stellar Hookset !! and !!! bites.",
                 "Repeat."
             ],
         },
