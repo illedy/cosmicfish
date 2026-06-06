@@ -61,7 +61,7 @@ const data={
             "g":[
                 "Chum all casts when GP>350",
                 "Bait with Ambitious Lure, hooking everything.",
-                "Get <swell>x3 (check exact name, 1 cricket might be necessary).",
+                "Get <sylvan swell>x3.",
                 "Upon receiving Intuition, start baiting with Modest Lure hooking only ! bites.",
                 "Surface slap if the catch is not a big fish."
             ],
