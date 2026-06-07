@@ -1,0 +1,131 @@
+Note: only macros for A missions
+
+4500/10500/80
+/ac "Reflect" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Waste Not II" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/echo <se.2>
+
+/ac "Trained Perfection" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Groundwork" <wait.3>
+/ac "Groundwork" <wait.3>
+/ac "Groundwork" <wait.3>
+
+
+12300/2500/60
+/ac "Muscle Memory" <wait.3>
+/ac "Trained Perfection" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Groundwork" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Waste Not II" <wait.2>
+/ac "Veneration" <wait.2>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/ac "Delicate Synthesis" <wait.3>
+/echo <se.2>
+
+/ac "Veneration" <wait.2>
+/ac "Duty Action II" <wait.2>
+/ac "Rapid Synthesis" <wait.3>
+/ac "Rapid Synthesis" <wait.3>
+
+
+5600/10800/60
+/ac "Reflect" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Waste Not II" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/echo <se.2>
+
+/ac "Veneration" <wait.2>
+/ac "Duty Action II" <wait.2>
+/ac "Rapid Synthesis" <wait.3>
+/ac "Rapid Synthesis" <wait.3>
+/ac "Rapid Synthesis" <wait.3>
+
+
+1100/12400/60
+/ac "Reflect" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Waste Not II" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Duty Action II" <wait.2>
+/ac "Rapid Synthesis" <wait.3>
+
+
+2000/9200/20
+/ac "Reflect" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Prudent Synthesis" <wait.3>
+/echo <se.2>
+
+/ac "Manipulation" <wait.2>
+/ac "Innovation" <wait.2>
+/ac "Prudent Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Prudent Touch" <wait.3>
+/ac "Byregot's Blessing" <wait.3>
+/ac "Prudent Synthesis" <wait.3>
+/ac "Prudent Synthesis" <wait.3>
+/ac "Prudent Synthesis" <wait.3>
+
+
+4900/7400/40
+/ac "Reflect" <wait.3>
+/ac "Manipulation" <wait.2>
+/ac "Waste Not II" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Innovation" <wait.2>
+/ac "Preparatory Touch" <wait.3>
+/ac "Preparatory Touch" <wait.3>
+/ac "Great Strides" <wait.2>
+/ac "Byregot's Blessing" <wait.3>
+/echo <se.2>
+
+/ac "Trained Perfection" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Groundwork" <wait.3>
+/ac "Prudent Synthesis" <wait.3>
+/ac "Prudent Synthesis" <wait.3>
+/ac "Prudent Synthesis" <wait.3>
+/ac "Veneration" <wait.2>
+/ac "Prudent Synthesis" <wait.3>
+/ac "Prudent Synthesis" <wait.3>
+

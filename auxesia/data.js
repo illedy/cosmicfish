@@ -114,6 +114,39 @@ const data={
             ],
         }
     ],
+    "m":[
+        {
+            "n":"Master: Botanifish Diversity Survey",
+            "b":"Wisteria jellyfish",
+            "g":[
+                "Bait with Modest Lure, hooking everything.",
+                "Upon receiving Intuition (<riotus dianthus>x3 (!)), switch to refined bait, Prize Catch, Multihook, Triple Hook.",
+                "Return to normal bait, use all Thaliak's Favors and repeat up to 3 times, using Cordial for GP if necessary.",
+                "Once out of refined bait, keep Patience II, bait with Modest Lure to get Intuition and Ambitious Lure while under its effect.",
+                "Use any remaining Multihook while under the effect of Intuition.",
+                "Consideration: reaching a score milestone rewards with a lot of GP, consider spending in Chum, Identical Cast or something else so as not to overcap."
+            ],
+        },
+        {
+            "n":"Master: Botanifish Ecosystem Survey",
+            "b":"Topiary Cetacean",
+            "g":[
+                "Keep Patience II active. Start using all refined bait then switch.",
+                "Bait with Ambitious Lure with refined bait, Modest Lure with normal bait. Hook everything.",
+                "Mooch when applicable, Stellar Hookset !!!.",
+                "Another strategy to consider: Spareful hand <botanitrout> to combo with Big-game fishing."
+            ],
+        },
+        {
+            "n":"Master: Legendary Botanifish Survey",
+            "b":"Topiary serpent",
+            "g":[
+                "Get intuition by catching <topiary gibal>x2 (!, Identical Cast it, get these first), <drifting dragon> (!!) and <fishform: aqualevel> (!!!).",
+                "Switch to refined bait, Surface Slap (unless <topiary gibal> was the last catch), Prize Catch, Big-game Fishing if available, Ambitious Lure. Hook !!! only until catching the big fish.",
+                "Switch to normal bait and repeat. When out of refined bait, Patience II",
+            ],
+        }
+    ],
     "c":[
         {
             "n":"All",
