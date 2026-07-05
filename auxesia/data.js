@@ -89,19 +89,23 @@ const data={
             ],
         },
         {
-            "n":"???",
-            "b":"???",
+            "n":"EX+: Stratostone Shores Environmental Survey (Clouds)",
+            "b":"Crabby indicolite",
             "g":[
-                "???"
+                "Prize Catch.",
+                "Cordial whenever missing more than 400 GP.",
+                "Bait with Ambitious Lure, hooking ! bites and Triple Hook !!! bites.",
+                "If it was !!, Surface Slap, Prize Catch and start hooking only !!! bites.",
+                "Repeat with Stellar Hookset instead of Triple Hook.",
             ],
         },
     ],
     "t":[
         {
-            "n":"???",
-            "b":"???",
+            "n":"EX: Large Mutant Distribution Survey (4-8)",
+            "b":"Turquoise Vine",
             "g":[
-                "???"
+                "Bait with Ambitious Lure, hooking everything even if there is no special message."
             ],
         },
         {

@@ -1,4 +1,4 @@
-Note: only macros for A missions
+A MISSIONS
 
 4500/10500/80
 /ac "Reflect" <wait.3>
@@ -106,7 +106,7 @@ Note: only macros for A missions
 /ac "Prudent Synthesis" <wait.3>
 
 
-4900/7400/40
+4900/7400/40 and 4700/14600/60
 /ac "Reflect" <wait.3>
 /ac "Manipulation" <wait.2>
 /ac "Waste Not II" <wait.2>

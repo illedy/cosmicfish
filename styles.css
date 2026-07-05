@@ -1,0 +1,12 @@
+html{
+    background-color: black;
+    color: white;
+}
+
+a:link{
+    color: lightskyblue;
+}
+
+a:visited{
+    color:mediumslateblue;
+}
